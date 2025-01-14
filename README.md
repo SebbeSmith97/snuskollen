@@ -3,8 +3,8 @@
 ## VITT SNUS
 
 ### Styrkekategorier Velo
-Mini (1p)
-Mini nikotinstyrka ligger på ca 4 mg/portion 
+- Mini (1p)
+  - Mini nikotinstyrka ligger på ca 4 mg/portion 
 
 Normal (2p)
 Normal nikotinstyrka ligger på ca 6 mg/portion  
