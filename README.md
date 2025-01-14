@@ -1,5 +1,13 @@
 # snuskollen
 
+## SNITTSTYRKA VITT SNUS
+
+Mini (1p): ca 4,6 mg i snitt
+Normal (2p): ca 6,1 mg i snitt
+Stark (3p): ca 9,1 mg i snitt
+Extra Stark (4p): ca 11,5 mg i snitt
+Ultra Stark (5): ca 15,6 mg i snitt
+
 ## VITT SNUS
 
 ### Styrkekategorier Velo
