@@ -5,6 +5,7 @@
 ### Styrkekategorier Velo
 Mini (1p)
 Mini nikotinstyrka ligger på ca 4 mg/portion 
+
 Normal (2p)
 Normal nikotinstyrka ligger på ca 6 mg/portion  
 
@@ -24,6 +25,7 @@ Max nikotinstyrka ligger på ca 17 mg/portion
 ### Styrkekategorier ZYN
 Mini (1p)
 Mini nikotinstyrka ligger på ca 3 mg/portion 
+
 Normal (2p)
 Normal nikotinstyrka ligger på ca 6 mg/portion  
 
